@@ -36,8 +36,8 @@ dependencies:
 
   core_utility:
     git:
-#      url: https://github.com/Hiteshpatel10/geek_app_lab_packages.git
-      url: https://Hiteshpatel10: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@github.com/Hiteshpatel10/geek_app_lab_packages.git
+      url: https://github.com/Hiteshpatel10/geek_app_lab_packages.git
+#      url: https://Hiteshpatel10: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@github.com/Hiteshpatel10/geek_app_lab_packages.git
       path: core_utility
 
   # The following adds the Cupertino Icons font to your application.
