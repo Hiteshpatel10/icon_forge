@@ -60,9 +60,11 @@ packages:
   core_utility:
     dependency: "direct main"
     description:
-      path: "/Users/user/Documents/hp/GITHUB/geek_app_lab_packages/core_utility"
-      relative: false
-    source: path
+      path: core_utility
+      ref: HEAD
+      resolved-ref: bb84660edad6f281feb17c32e087d05e58b8032c
+      url: "https://Hiteshpatel10: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@github.com/Hiteshpatel10/geek_app_lab_packages.git"
+    source: git
     version: "0.0.1"
   cupertino_icons:
     dependency: "direct main"
